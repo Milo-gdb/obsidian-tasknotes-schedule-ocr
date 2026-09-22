@@ -1,0 +1,19 @@
+# Un plugin pour tasknote sur obsidian 
+
+Le but pouvoir mettre facilement et automatiquement son agenda sur obsidian tasknotes
+
+
+## I. Les grandes étapes du programmes
+
+### 1. Ajout d'un interface spécial sur obsidian 
+
+- Ajout d'un onglet spécial ou je pourrai glisser une image dedans.
+- Une fois l'image dedans le programme va l'envoyer a une ia ou alors un programme va analyser l'algorithme 
+- Ensuite les résultats de l'ia ou l'algo seront recupérer dans un certain format.
+
+### 2. Récupération et construction de l'emploie du temps 
+
+- Ensuite le programme va appeler les fonctions de tasknote pour construire son propre planning avec l'emploies du temps dedans 
+
+- En fin l'utilisateur aura un aperçu dans une nouvelle fenêtre et aura juste a sauvegarder ou modifier a sa guise si il a des changements comme des récurrences spécial ect .
+
